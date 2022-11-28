@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# prints the current script's pid
-echo $$
